@@ -13,7 +13,6 @@ jobs:
       - uses: guilyx/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: "wakatimeapi"
           COMMIT_MESSAGE: "Updated WakatimeAPI statistics."
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
