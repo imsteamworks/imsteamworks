@@ -12,7 +12,7 @@
 <!--START_SECTION:wakatimeapi-->
 
 ```text
-From: 27 April 2021 - To: 05 June 2025
+From: 27 April 2021 - To: 06 June 2025
 
 Total Time: 1,577 hrs 24 mins
 
