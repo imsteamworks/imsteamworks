@@ -12,7 +12,7 @@
 <!--START_SECTION:wakatimeapi-->
 
 ```text
-From: 27 April 2021 - To: 30 December 2025
+From: 27 April 2021 - To: 31 December 2025
 
 Total Time: 1,750 hrs 14 mins
 
