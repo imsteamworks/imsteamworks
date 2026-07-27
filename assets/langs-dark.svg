@@ -10,7 +10,7 @@
 <rect x="0.75" y="0.75" width="878.5" height="200.5" rx="13"
       fill="#0E1420" stroke="#1E2A3C" stroke-width="1.5"/>
 <text x="26" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#7D8DA3"
-      letter-spacing="0.4" opacity="0">1,803 hrs 57 mins<animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></text>
+      letter-spacing="0.4" opacity="0">1,799 hrs 34 mins<animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></text>
 <text x="854" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#4A5768"
       text-anchor="end" letter-spacing="0.4" opacity="0">since 27 april 2021<animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></text>
 <rect x="26" y="62" width="828" height="18" rx="9" fill="#1A2434"/>
