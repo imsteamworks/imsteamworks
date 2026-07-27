@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="58" viewBox="0 0 880 58" fill="none" role="img" aria-label="polls — community polling tool">
+<title>polls — community polling tool</title>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+<g><animate attributeName="transform" type="translate" values="0 6;0 0" dur="0.55s" begin="0.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" attributeType="XML" additive="sum"/>
+  <rect x="0.75" y="0.75" width="878.5" height="56.5" rx="11"
+        fill="#0E1420" stroke="#1E2A3C" stroke-width="1.5"/>
+  <rect x="1" y="14" width="3" height="30" rx="1.5" fill="#7C6AF0" opacity="0.9"/>
+  <text x="26" y="33.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5"
+        font-weight="600" fill="#7C6AF0">polls</text>
+  <text x="216" y="33.5" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13.5"
+        fill="#7D8DA3">community polling tool</text>
+  <path d="M849 24 L854 29 L849 34"
+        fill="none" stroke="#4A5768" stroke-width="1.6"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</g></g>
+
+</svg>

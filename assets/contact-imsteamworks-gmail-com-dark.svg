@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="211" height="34" viewBox="0 0 211 34" fill="none" role="img" aria-label="imsteamworks@gmail.com">
+<title>imsteamworks@gmail.com</title>
+
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.45s" begin="0.26s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+  <rect x="0.75" y="0.75" width="209.5" height="32.5" rx="16.25"
+        fill="#121A28" stroke="#1E2A3C" stroke-width="1.5"/>
+  <circle cx="17" cy="17" r="3.75" fill="#EA4335"/>
+  <text x="30" y="21.2" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5"
+        fill="#E6EDF3">imsteamworks@gmail.com</text>
+</g>
+
+</svg>

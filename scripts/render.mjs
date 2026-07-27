@@ -9,6 +9,7 @@ import { getStats } from './lib/waka.mjs';
 import { terminal } from './designs/terminal.mjs';
 import { stack } from './designs/stack.mjs';
 import { hero, cards, langs } from './designs/impact.mjs';
+import { sectionHeading, workRow, contactChip, slug } from './designs/work.mjs';
 
 const ROOT = process.cwd();
 const OUT = path.join(ROOT, 'assets');
@@ -33,7 +34,17 @@ for (const theme of Object.values(THEMES)) {
     'hero': hero(profile, theme),
     'cards': cards(stats, profile, theme),
     'langs': langs(stats, theme),
+    'heading-work': sectionHeading('some of my work', theme),
   };
+
+  // One file per project row and per contact chip so each can be wrapped in its
+  // own link in the README.
+  profile.work.forEach((item, i) => {
+    files[`work-${slug(item.repo)}`] = workRow(item, theme, i);
+  });
+  profile.contact.forEach((item, i) => {
+    files[`contact-${slug(item.label)}`] = contactChip(item, theme, i);
+  });
 
   for (const [name, svg] of Object.entries(files)) {
     const file = path.join(OUT, `${name}-${theme.id}.svg`);

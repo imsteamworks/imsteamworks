@@ -30,25 +30,54 @@
   <img alt="Tech stack: Java, TypeScript, JavaScript · MongoDB, MySQL, Docker, GitHub Actions, Raspberry Pi · Git, IntelliJ, Pterodactyl" src="assets/stack-dark.svg" width="880">
 </picture>
 
-</div>
+<br><br>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heading-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heading-work-light.svg">
+  <img alt="Some of my work" src="assets/heading-work-dark.svg" width="880">
+</picture>
 
-## some of my work
+<a href="https://github.com/imsteamworks/polls"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-polls-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/work-polls-light.svg">
+  <img alt="polls — community polling tool" src="assets/work-polls-dark.svg" width="880">
+</picture></a>
 
-| | |
-|---|---|
-| **[polls](https://github.com/imsteamworks/polls)** | Community polling tool |
-| **[ratio](https://github.com/imsteamworks/ratio)** | Community interaction platform |
-| **[Minestom](https://github.com/imsteamworks/Minestom)** | Fork of the 1.19.3 Minecraft server implementation |
-| **[rollerite-trial](https://github.com/imsteamworks/rollerite-trial)** | Trial plugin |
+<a href="https://github.com/imsteamworks/ratio"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-ratio-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/work-ratio-light.svg">
+  <img alt="ratio — community interaction platform" src="assets/work-ratio-dark.svg" width="880">
+</picture></a>
 
-<br>
+<a href="https://github.com/imsteamworks/Minestom"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-minestom-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/work-minestom-light.svg">
+  <img alt="Minestom — fork of the 1.19.3 minecraft server implementation" src="assets/work-minestom-dark.svg" width="880">
+</picture></a>
 
-<div align="center">
-<sub>
+<a href="https://github.com/imsteamworks/rollerite-trial"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-rollerite-trial-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/work-rollerite-trial-light.svg">
+  <img alt="rollerite-trial — trial plugin" src="assets/work-rollerite-trial-dark.svg" width="880">
+</picture></a>
 
-[piglins.com](https://piglins.com) &nbsp;·&nbsp; discord `steamworks.` &nbsp;·&nbsp; [imsteamworks@gmail.com](mailto:imsteamworks@gmail.com)
+<br><br>
 
-</sub>
+<a href="https://piglins.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-piglins-com-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-piglins-com-light.svg">
+  <img alt="piglins.com" src="assets/contact-piglins-com-dark.svg" height="34">
+</picture></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-discord-steamworks-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-discord-steamworks-light.svg">
+  <img alt="Discord: steamworks." src="assets/contact-discord-steamworks-dark.svg" height="34">
+</picture>
+<a href="mailto:imsteamworks@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-imsteamworks-gmail-com-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-imsteamworks-gmail-com-light.svg">
+  <img alt="imsteamworks@gmail.com" src="assets/contact-imsteamworks-gmail-com-dark.svg" height="34">
+</picture></a>
+
 </div>

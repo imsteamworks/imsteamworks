@@ -80,5 +80,43 @@
       ]
     }
   ],
-  "yearsCoding": 9
+  "yearsCoding": 9,
+  "work": [
+    {
+      "repo": "polls",
+      "url": "https://github.com/imsteamworks/polls",
+      "desc": "community polling tool"
+    },
+    {
+      "repo": "ratio",
+      "url": "https://github.com/imsteamworks/ratio",
+      "desc": "community interaction platform"
+    },
+    {
+      "repo": "Minestom",
+      "url": "https://github.com/imsteamworks/Minestom",
+      "desc": "fork of the 1.19.3 minecraft server implementation"
+    },
+    {
+      "repo": "rollerite-trial",
+      "url": "https://github.com/imsteamworks/rollerite-trial",
+      "desc": "trial plugin"
+    }
+  ],
+  "contact": [
+    {
+      "label": "piglins.com",
+      "url": "https://piglins.com",
+      "color": "#7C6AF0"
+    },
+    {
+      "label": "discord: steamworks.",
+      "color": "#5865F2"
+    },
+    {
+      "label": "imsteamworks@gmail.com",
+      "url": "mailto:imsteamworks@gmail.com",
+      "color": "#EA4335"
+    }
+  ]
 }
