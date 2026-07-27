@@ -1,0 +1,84 @@
+{
+  "handle": "steamworks",
+  "wordmark": "STEAMW0RKS",
+  "host": "steamworks@piglins.com",
+  "identity": "steamworks  ·  cs student  ·  plugin developer  ·  musician",
+  "roles": [
+    "computer science student",
+    "minecraft plugin developer",
+    "java · kotlin · typescript",
+    "musician"
+  ],
+  "about": [
+    "computer science student, ~9 years writing code.",
+    "mostly java and the jvm. always up for a new language."
+  ],
+  "meta": "united states  ·  piglins.com  ·  writing code since 2017",
+  "links": {
+    "site": "https://piglins.com",
+    "discord": "steamworks.",
+    "email": "imsteamworks@gmail.com"
+  },
+  "stack": [
+    {
+      "group": "languages",
+      "items": [
+        {
+          "name": "Java",
+          "color": "#B07219"
+        },
+        {
+          "name": "TypeScript",
+          "color": "#3178C6"
+        },
+        {
+          "name": "JavaScript",
+          "color": "#F1E05A"
+        }
+      ]
+    },
+    {
+      "group": "data & infra",
+      "items": [
+        {
+          "name": "MongoDB",
+          "color": "#47A248"
+        },
+        {
+          "name": "MySQL",
+          "color": "#4479A1"
+        },
+        {
+          "name": "Docker",
+          "color": "#2496ED"
+        },
+        {
+          "name": "GitHub Actions",
+          "color": "#2088FF"
+        },
+        {
+          "name": "Raspberry Pi",
+          "color": "#C51A4A"
+        }
+      ]
+    },
+    {
+      "group": "tools",
+      "items": [
+        {
+          "name": "Git",
+          "color": "#F05032"
+        },
+        {
+          "name": "IntelliJ",
+          "color": "#FE315D"
+        },
+        {
+          "name": "Pterodactyl",
+          "color": "#2F6FED"
+        }
+      ]
+    }
+  ],
+  "yearsCoding": 9
+}
