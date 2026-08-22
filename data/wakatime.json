@@ -1,32 +1,32 @@
 {
-  "total": "1,835 hrs 58 mins",
+  "total": "1,837 hrs 37 mins",
   "start": "27 April 2021",
-  "end": "21 August 2026",
+  "end": "22 August 2026",
   "languages": [
     {
       "name": "Java",
-      "text": "1,332 hrs 24 mins",
-      "percent": 72.39
+      "text": "1,332 hrs 36 mins",
+      "percent": 72.33
     },
     {
       "name": "TypeScript",
       "text": "207 hrs 38 mins",
-      "percent": 11.28
+      "percent": 11.27
     },
     {
       "name": "JavaScript",
       "text": "92 hrs 33 mins",
-      "percent": 5.03
+      "percent": 5.02
     },
     {
       "name": "YAML",
-      "text": "70 hrs",
-      "percent": 3.8
+      "text": "70 hrs 27 mins",
+      "percent": 3.82
     },
     {
       "name": "XML",
       "text": "41 hrs 9 mins",
-      "percent": 2.24
+      "percent": 2.23
     },
     {
       "name": "Kotlin",
