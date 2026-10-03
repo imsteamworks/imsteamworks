@@ -1,12 +1,12 @@
 {
-  "total": "1,884 hrs 33 mins",
+  "total": "1,884 hrs 43 mins",
   "start": "27 April 2021",
-  "end": "1 October 2026",
+  "end": "2 October 2026",
   "languages": [
     {
       "name": "Java",
       "text": "1,355 hrs 1 min",
-      "percent": 71.5
+      "percent": 71.49
     },
     {
       "name": "TypeScript",
